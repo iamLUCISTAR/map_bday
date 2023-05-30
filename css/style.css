@@ -1,8 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Lobster');
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower');
-@import url('https://fonts.googleapis.com/css?family=Lucida+Console');
-@import url('https://fonts.googleapis.com/css?family=Marker+Felt');
-@import url('https://fonts.googleapis.com/css?family=Copperplate');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap');
 * {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
@@ -70,9 +69,9 @@ body {
 }
 
 #card-inside {
-  font-size: 1.17em;
+  font-size: 1.12em;
   line-height: 1.4;
-  font-family: 'Lucida Console';
+  font-family: 'Kalam';
   color: #331717;
 }
 
@@ -92,7 +91,7 @@ a.signed {
   margin-top: 1.5em;
   text-decoration:none;
   text-align: center;
-  font-family: 'Marker Felt';
+  font-family: 'Shadows Into Light';
   font-size: 1.4em;
 }
 
@@ -355,7 +354,7 @@ h2{
           transform: rotate(-5deg);
     font-size: 1.8em;
     color: #DB005B;
-    font-family:'Marker Felt';
+    font-family:'Shadows Into Light';
 }
 
 .card-front_inside {
